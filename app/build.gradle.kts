@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.zyryanova_v_15"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.zyryanova_v_15"
         minSdk = 31
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
